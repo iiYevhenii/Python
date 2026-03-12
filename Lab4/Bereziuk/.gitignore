@@ -1,0 +1,9 @@
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+__pycache__/
+*.pyc
+*_uk.txt
+*_et.txt
+language_list*.txt
